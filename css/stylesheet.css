@@ -1,14 +1,29 @@
 body{
   font-family: sans-serif;
   font-size:110%;
-  background-color: #FCF7F8;
+  background-color:  #b38a92;
 }
 
 header {
   text-align: center;
+  background-color: #473538;
 }
 
 footer {
-  background-color: #343330;
+  background-color: #2416ec;
   text-align: center;
-}
+
+
+
+  #article {
+  background-color :enable-background: ;
+  }
+  #Qualifications {  
+    background-color: #FCF7F8;
+
+
+
+  }
+
+
+
