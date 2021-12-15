@@ -8,6 +8,13 @@ body{
 header {
   text-align: center;
   background-color: #343330;
+  color: aqua;
+}
+#heading {
+  font-family: sans-serif;
+  background-color:#343330;
+  color: aqua;
+
 }
 
 footer {
@@ -19,7 +26,10 @@ footer {
 #sidebar {
   background-color:rgb(67, 78, 19) ;
   width: 25%;
-  align-content: center;
+  text-align: center;
+  color: aqua;
+  padding: 50px;
+  
 }
 
 h1{
