@@ -17,7 +17,8 @@ header {
 
 }
 #headshot{
-  border: 50px solid rgb(206, 110, 110);
+  border: 10px solid rgb(29, 206, 230);
+  border-radius: 50%;
  
 }
 
@@ -43,4 +44,5 @@ h1{
 .icons{
   width:3rem ;
   height: auto;
+  margin: 5%;
 }
