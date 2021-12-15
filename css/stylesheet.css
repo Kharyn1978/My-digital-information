@@ -7,6 +7,8 @@ body{
   padding: 40px;
   margin-top: 5px;
   border-width: 0.5cm;
+  display :flex ;
+  justify-content: space;
 
 }
 
@@ -22,44 +24,45 @@ head{
 }
 
 #heading{
-  width: %;
-  height: 20;
+  background-color: rgb(53, 37, 37);
   border-style: solid;
-  border-width: 3px;
+  border-width: 3px
   font-family: arial bold;
   border-color: #f83d0f;
-  margin-top: 20px;
+  margin-top: 10px;
   position: static;
-  display :
+  display : justify content
+  
+
 }
 
 img{
-  height: 1%;
+  height: %;
   border:  solid 10px;
   border-style: solid;
   border-width: 3px;
   border-top-width: 10px;
   border-left-width:  10px;
   border-right-width: 10px;
-  border-bottom-width:  10px; ;
+  border-bottom-width:  10px; 
   border-radius: 50%;
-  font-family: arial bold;
+  font-family: arial bold:
   border-color: #057031;
   margin-top: 20px;
-  border-radius: 1000px 1000px 1000px 1000px;
+  border-radius: static;
 }
 
 #main{ 
-  height: 100px;
+  width: 30%;
+  height: 110%;
   display: flex;
   justify-content: space-between;
   border: 10px solid rgb(95, 104, 17);
   position:static;
-  margin: left 1rem;;
-  padding:1rem;
+  margin: 3px;
+  
   
 }
-
 #nav{
   width: 10%;
   height: 2%;
@@ -69,9 +72,7 @@ img{
   padding: 100px;
   border: 5px solid  black;
   position: relative;
-  left: 10px;
-  margin-left: 10%;
-  text-align: center;
+  text-align: left;
  
 }
 
