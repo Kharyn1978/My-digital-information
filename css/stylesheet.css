@@ -16,6 +16,10 @@ header {
   color: aqua;
 
 }
+#headshot{
+  border: 50px solid rgb(206, 110, 110);
+ 
+}
 
 footer {
   background-color: #343330;
@@ -28,7 +32,6 @@ footer {
   width: 25%;
   text-align: center;
   color: aqua;
-  padding: 50px;
   
 }
 
