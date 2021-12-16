@@ -20,7 +20,7 @@ header {
 #headshot{
   border: 10px solid rgb(202, 104, 38);
   border-radius: 50%;
- 
+  position: relative;
 }
 
 footer {
@@ -31,6 +31,9 @@ footer {
  /* CLASSES SECTION */
 .main{
   display: flex; 
+  flex-direction: row;
+  justify-content: space-between;
+  
 }
 
 #sidebar {
@@ -38,19 +41,23 @@ footer {
   width: 25%;
   text-align: center;
   color: rgb(229, 238, 238);
-  border: 100px solid rgb(67, 78, 19) ;
+  padding: 1rem;
+
+  flex: 8;
 }
 
-  
-
-
+#content{
+  width: 80%;
+  padding: 1rem;
+  margin: 1rem;
+}
 h1{
   font-size: 30px;
 }
   
 /* ID SECTION */
 .icons{
-  width: 20px ;
-  height: 20px ;
+  width: 50px ;
+  height: 50px ;
 
 }
