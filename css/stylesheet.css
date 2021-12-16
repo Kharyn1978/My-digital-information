@@ -30,9 +30,7 @@ footer {
 
  /* CLASSES SECTION */
 .main{
-  display: flex;
-  
-  
+  display: flex; 
 }
 
 #sidebar {
@@ -40,11 +38,11 @@ footer {
   width: 25%;
   text-align: center;
   color: rgb(229, 238, 238);
-  border: 100px solid rgb(67, 78, 19;
+  border: 100px solid rgb(67, 78, 19) ;
 }
-#content{
+
   
-}
+
 
 h1{
   font-size: 30px;
@@ -52,7 +50,7 @@ h1{
   
 /* ID SECTION */
 .icons{
-  width: 2px ;
-  height: ;
+  width: 20px ;
+  height: 20px ;
 
 }
